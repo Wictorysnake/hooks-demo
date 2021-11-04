@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+  }
+  
+  tr {
+    line-height: 40px;
+    text-align: left;
+  }
+  
+  th, td {
+    padding: 5px 8px;
+    border-bottom: 1px solid #e1e1e1;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+
+  button + button {
+    margin-left: 8px;
+  }

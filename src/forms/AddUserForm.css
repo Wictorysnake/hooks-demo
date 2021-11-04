@@ -1,0 +1,20 @@
+form {
+    padding: 10px 8px;
+}
+
+label {
+    display: block;
+    line-height: 40px;
+}
+
+input:not(input[type="button"]) {
+    display: block;
+    width: 320px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.submit-btn {
+    margin-top: 20px;
+    cursor: pointer;
+}
